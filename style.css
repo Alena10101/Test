@@ -1,0 +1,15 @@
+* {
+	padding: 0;
+	margin: 0;
+	box-sizing: 0;
+	text-decoration: none;
+	list-style: none;
+}
+
+.menu {
+	font-weight: 700px;
+	color: #fff;
+	background-color: #45015d;
+	border-radius: 15px;
+	padding: 10px 20px;
+}
